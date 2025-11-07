@@ -1,7 +1,7 @@
 {
-  "name": "reaction-roles-bot-v5",
+  "name": "SyncRoles",
   "version": "1.0.0",
-  "description": "A globally functional Discord Reaction Roles Bot for Koyeb hosting (v5).",
+  "description": "A globally functional Discord Reaction Roles easy to use!",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
